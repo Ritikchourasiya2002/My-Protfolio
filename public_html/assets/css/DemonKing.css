@@ -12770,7 +12770,7 @@ pre .code {
   font-size: calc(25px + (30 - 20) * ((100vw - 300px) / (1300 - 300)));
   text-decoration: none;
   color: white;
-  margin: 10px 10px 8px -200px;
+  /* margin: 10px 10px 8px -200px; */
 
 }
 
